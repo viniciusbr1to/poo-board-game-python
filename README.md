@@ -9,6 +9,7 @@ resultados com o vencedor da partida e o placar final.
 
 ## Integrantes
 Nome: Vinicius Lavraldo de Brito 
+
 RA: 2840482421023
 
 ## UML

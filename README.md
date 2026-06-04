@@ -11,7 +11,7 @@ resultados com o vencedor da partida e o placar final.
 Nome: Vinicius Lavraldo de Brito RA: 2840482421023
 
 ## UML
-![diagrama](docs-uml-diagram)
+![diagrama]([docs-uml-diagram](https://github.com/viniciusbr1to/poo-board-game-python/blob/main/docs/uml_diagram.jpg))
 
 ## Telas Principais
 

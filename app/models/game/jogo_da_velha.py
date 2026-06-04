@@ -1,6 +1,6 @@
-from src.core.jogo import JogoTabuleiro
-from src.core.jogada import Jogada
-from src.core.peca import Peca
+from app.models.jogo import JogoTabuleiro
+from app.models.jogada import Jogada
+from app.models.peca import Peca
 
 
 class JogoDaVelha(JogoTabuleiro):

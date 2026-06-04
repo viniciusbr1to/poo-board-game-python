@@ -14,7 +14,7 @@ RA: 2840482421023
 ## UML
 
 <div align="center">
-  <img loading="lazy" src="docs/uml_diagram.jpeg"/>
+  <img loading="lazy" src="docs/uml_diagram.jpg"/>
 </div>
 
 ## Telas Principais

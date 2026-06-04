@@ -1,6 +1,6 @@
 from app.models.jogador import Jogador
 from app.models.jogada import Jogada
-from app.game.jogo_da_velha import JogoDaVelha
+from app.models.game.jogo_da_velha import JogoDaVelha
 from kivymd.app import MDApp
 from kivy.uix.screenmanager import ScreenManager
 from app.view.menu_screen import MenuScreen

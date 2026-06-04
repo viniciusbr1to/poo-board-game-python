@@ -8,8 +8,7 @@ ocorra uma vitória. Ao término da MD5, a partida se encerra exibindo a tela de
 resultados com o vencedor da partida e o placar final.
 
 ## Integrantes
-Nome: Vinicius Lavraldo de Brito 
-
+Nome: Vinicius Lavraldo de Brito                                   
 RA: 2840482421023
 
 ## UML

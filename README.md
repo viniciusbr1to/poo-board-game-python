@@ -8,10 +8,14 @@ ocorra uma vitória. Ao término da MD5, a partida se encerra exibindo a tela de
 resultados com o vencedor da partida e o placar final.
 
 ## Integrantes
-Nome: Vinicius Lavraldo de Brito RA: 2840482421023
+Nome: Vinicius Lavraldo de Brito 
+RA: 2840482421023
 
 ## UML
-![diagrama]([docs-uml-diagram](https://github.com/viniciusbr1to/poo-board-game-python/blob/main/docs/uml_diagram.jpg))
+
+<div align="center">
+  <img loading="lazy" src="docs/uml_diagram.jpeg"/>
+</div>
 
 ## Telas Principais
 

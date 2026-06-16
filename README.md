@@ -20,13 +20,14 @@ RA: 2840482421023
 ### Execução
       python main.py
 ### Como jogar
-      1. Na tela **MENU**, clique em **NEW MATCH**.
-      2. Na tela **MATCH SETTINGS**, digite o nome de dois jogadores e escolha seus simbolos.
-      3. Clique em **PLAY** para iniciar.
+      1. Na tela MENU, clique em NEW MATCH.
+      2. Na tela MATCH SETTINGS, digite o nome de dois jogadores e escolha seus simbolos.
+      3. Clique em PLAY para iniciar.
       4. Clique nas células do tabuleiro para fazer sua jogada.
-      5. Ao fim de cada rodada, escolha **NEXT ROUND** para continuar ou **LEAVE** para voltar ao **MENU**.
+      5. Ao fim de cada rodada, escolha NEXT ROUND para continuar ou LEAVE para voltar ao MENU.
 
 ## Estrutura do projeto
+```
 poo-board-game-python/
 ├── main.py
 ├── app/
@@ -51,6 +52,7 @@ poo-board-game-python/
 |     ├── teste_velha.py
 |
 └── README.md
+```
 
 ## UML
 <div align="center">

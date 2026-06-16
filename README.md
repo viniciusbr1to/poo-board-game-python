@@ -2,10 +2,10 @@
 Projeto desenvolvido para a disciplina de Programação Orientada a Objetos.
 
 ## Jogo da Velha
-A proposta é um jogo da velha com uma partida melhor de cinco. Cada rodada será
+A proposta é um jogo da velha com partidas melhor de cinco. Cada rodada será
 decidida através de uma vitória. Em casos de empate, a rodada é redefinida até que
-ocorra uma vitória. Ao término da MD5, a partida se encerra exibindo a tela de
-resultados com o vencedor da partida e o placar final.
+ocorra uma vitória. Ao término da MD5, a partida se encerra exibindo o
+resultado final e o vencedor da partida.
 
 ## Integrantes
 Nome: Vinicius Lavraldo de Brito                                   

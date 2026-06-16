@@ -47,10 +47,8 @@ poo-board-game-python/
 │       ├── board_screen.py
 |       ├── result_screen.py
 │       └── theme_button.py
-|
 |── tests/
-|     ├── teste_velha.py
-|
+|     └── teste_velha.py
 └── README.md
 ```
 

@@ -70,6 +70,11 @@ poo-board-game-python/
 ### Placar
 <img loading="lazy" src="assets/images/result_screen.png"/>
 
+## Utilização de IA
+Durante o desenvolvimento do projeto, a ferramenta Claude auxiliou nas revisões do código a fim de encontrar erros de integração, 
+como referências incorretas entre métodos e atributos. Além disso, ela colaborou com o entendimento do framework, 
+acrescentando a documentação oficial.
+
 
 
 

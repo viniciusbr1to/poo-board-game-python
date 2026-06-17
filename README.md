@@ -59,9 +59,9 @@ poo-board-game-python/
 
 ## Telas Principais
 ### Menu
-      <div align="center">
+<div align="center">
   <img loading="lazy" src="assets/images/menu_screen.jpg"/>
-      </div>
+</div>
 
 
 

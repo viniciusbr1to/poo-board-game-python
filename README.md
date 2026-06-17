@@ -58,6 +58,18 @@ poo-board-game-python/
 </div>
 
 ## Telas Principais
+### Menu principal
+<img loading="lazy" src="assets/images/menu_screen.png"/>
+
+### Configurações de partida
+<img loading="lazy" src="assets/images/config_screen.png"/>
+
+### Tabuleiro
+<img loading="lazy" src="assets/images/board_screen.png"/>
+
+### Placar
+<img loading="lazy" src="assets/images/result_screen.png"/>
+
 
 
 
